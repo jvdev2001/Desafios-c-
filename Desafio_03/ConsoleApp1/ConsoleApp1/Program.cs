@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Desafio03 {
+
+    class MyAplication {
+
+        static void Main(string[] args) {
+
+            Console.WriteLine(". Leia a idade de uma pessoa e informe se ela é maior ou menor de idade");
+        }
+    }
+}
